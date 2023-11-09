@@ -12,7 +12,7 @@ Achieved a predictive accuracy of approximately 72.99%.
 
 Optimized Model 2:
 Add more neurons to a hidden layer, and 
-add more hidden layers
+add more hidden layers.
 
 Revised the model to achieve higher accuracy; however, it was 72.7% and still below 75%.
 
